@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jhaabhijeet864/amonite/master/public/logo-mark.svg" alt="Amonite Logo" width="128" height="128" />
-</p>
+
 
 <h1 align="center">Amonite Design</h1>
 
